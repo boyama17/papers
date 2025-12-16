@@ -60,7 +60,7 @@
 <details>
 <summary>Relevance-Aware Anomalous Users Detection in Social Network via Graph Neural Network</summary>
 
-**概要**: GNNを使用し、ノード間の**関連性（Relevance）を意識**した**異常ユーザーの検出**フレームワークを提案しています。
+**概要**: GNNを使用し、ノード間の**関連性を意識**した**異常ユーザーの検出**フレームワークを提案しています。
 * **キーワード**: GNN, 関連性認識, 異常ユーザー検出
 
 </details>
@@ -68,9 +68,9 @@
 <details>
 <summary>Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection</summary>
 
-概要: ノードとサブグラフの対照学習（Contrastive Learning）を通じて、グラフベースの不正検出（Fraud Detection）を行う手法。
+**概要**: **ノードとサブグラフの対照学習**を通じて、グラフベースの不正検出を行う手法。
 
-キーワード: 対照学習, 不正検出, 動的近傍モデリング
+* **キーワード**: 対照学習, 不正検出, 動的近傍モデリング
 
 </details>
 
