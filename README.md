@@ -64,19 +64,22 @@
 * **キーワード**: GNN, 関連性認識, 異常ユーザー検出
 
 </details>
-<details> <summary>Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection</summary>
 
-概要: ノードとサブグラフの対照学習（Contrastive Learning）を通じて、グラフベースの不正検出（Fraud Detection）を行う手法。動的な近傍関係をモデル化し、ラベル不足の課題に対処します。
+<details>
+<summary>Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection</summary>
+
+概要: ノードとサブグラフの対照学習（Contrastive Learning）を通じて、グラフベースの不正検出（Fraud Detection）を行う手法。
 
 キーワード: 対照学習, 不正検出, 動的近傍モデリング
 
 </details>
 
-<details> <summary>BotMoE: Twitter Bot Detection with Community-Aware Mixtures of Modal-Specific Experts</summary>
+<details>
+<summary>BotMoE: Twitter Bot Detection with Community-Aware Mixtures of Modal-Specific Experts</summary>
 
-概要: コミュニティ認識（Community-Aware）を取り入れたMixture of Experts (MoE) モデルによるTwitterボット検出手法。各モダリティ（テキスト、グラフ構造など）に特化したエキスパートを統合して検出精度を高めています。
+**概要**: **コミュニティ認識（Community-Aware）** を取り入れた**Mixture of Experts (MoE)** モデルによるTwitterボット検出手法。
 
-キーワード: ボット検出, Mixture of Experts (MoE), コミュニティ認識, マルチモーダル
+* **キーワード**: ボット検出, Mixture of Experts (MoE), コミュニティ認識, マルチモーダル
 
 </details>
 ---
